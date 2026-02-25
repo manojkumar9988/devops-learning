@@ -1,2 +1,5 @@
 Day 1 - Starting DevOps Journey
 Learning Git Basics
+
+Day 2 - Learning Git Branching
+Working on feature branch
